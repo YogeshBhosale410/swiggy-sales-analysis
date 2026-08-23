@@ -30,12 +30,11 @@ The objective of this project is to transform raw food-order data into an **inte
 
 | KPI | Value |
 |---|---:|
-| 💰 Total Sales | ₹19.7M |
-| ⭐ Average Rating | 4.3 |
-| 📝 Ratings Count | 73.1K |
-| 🛒 Total Orders | 62.91K |
-| 💵 Average Order Value | Calculated in Dashboard |
-
+| 💰 Total Sales | ₹53.01M |
+| ⭐ Average Rating | 4.34 |
+| 📝 Rating Count | 5.59M |
+| 🛒 Total Orders | 197.4K |
+| 💵 Average Order Value | ₹268.51 |
 ---
 
 ## 📈 Dashboard Features
@@ -149,7 +148,7 @@ Analyzed sales performance by:
 
 ## 📷 Dashboard Preview
 
-![Swiggy Sales Analysis Dashboard](screenshots/swiggy-dashboard.png)
+![Swiggy Sales Analysis Dashboard](https://github.com/YogeshBhosale410/swiggy-sales-analysis)
 
 ---
 
